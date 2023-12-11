@@ -50,5 +50,5 @@ int binary_tree_is_perfect(const binary_tree_t *tree);
 int _pow_recursion(int x, int y);
 binary_tree_t *binary_tree_uncle(binary_tree_t *node);
 /*advance*/
-binary_tree_t *binary_trees_ancestor(const binary_tree_t *first,const binary_tree_t *second)
+binary_tree_t *binary_trees_ancestor(const binary_tree_t *first,const binary_tree_t *second);
 #endif
